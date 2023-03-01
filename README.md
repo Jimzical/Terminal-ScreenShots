@@ -1,5 +1,6 @@
 # Terminal-ScreenShots
 Edits Terminal ScreenShots
+Pet Project to learn how exactly opencv works
 > Currently in Development stage and not really usable
 
 # Use:
